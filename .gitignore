@@ -1,0 +1,16 @@
+# ไม่ให้ push ตัวแปรความลับ
+.env
+credentials.json
+
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE/Editor junk
+.DS_Store
+.vscode/
+.idea/
